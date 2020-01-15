@@ -12,3 +12,5 @@ substraction_on_registers
 jg_je_jl_on_rcx
 negation
 sub_negation
+factorial_on_registers
+square_on_registers
