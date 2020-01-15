@@ -10,3 +10,5 @@ max_from_3_registers
 substraction_on_registers
 .DS_Store
 jg_je_jl_on_rcx
+negation
+sub_negation
