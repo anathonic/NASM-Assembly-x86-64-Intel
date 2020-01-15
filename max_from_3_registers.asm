@@ -20,3 +20,4 @@ mov rax, rcx
 jmp end
 end:
 nop
+;result in rax register
