@@ -12,3 +12,4 @@ mov rbx, rdx
 jmp end
 end:
 nop
+;result in rbx register
