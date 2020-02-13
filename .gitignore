@@ -15,3 +15,4 @@ sub_negation
 factorial_on_registers
 square_on_registers
 fibonacci_on_registers
+stack
